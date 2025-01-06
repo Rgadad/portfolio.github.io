@@ -1,5 +1,5 @@
 ## Portfolio
-
+![Project Screenshot](assets/image.png) 
 ### Hello, I'm Ramya Gadad 👋
 
 I am passionate about leveraging technology to solve real-world problems and making an impact through creative solutions. 
@@ -66,6 +66,7 @@ Impact:
 -🤝 Collaboration: Believing in the power of teamwork to create impactful and scalable solutions.
 -🌍 Problem-Solving: Passionate about tackling real-world challenges through innovative applications of technology.
 -💡 Creative Thinking: Applying out-of-the-box ideas to develop unique and efficient solutions.
+
 
   
 

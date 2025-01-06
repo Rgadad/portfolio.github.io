@@ -1,5 +1,5 @@
 ## Portfolio
-![Project Screenshot](assets/image.png) 
+
 ### Hello, I'm Ramya Gadad 👋
 
 I am passionate about leveraging technology to solve real-world problems and making an impact through creative solutions. 
